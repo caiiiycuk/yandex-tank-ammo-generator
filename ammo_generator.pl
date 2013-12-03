@@ -7,7 +7,7 @@ use Getopt::Std;
 sub usage {
   print <<"__USAGE__";
 Ammo generator for yandex-tank v.1
-  Usage: ammo_generator.pl -u url -[cm]
+  Usage: ammo_generator.pl -u url -[cmr]
      -u: url (like http://host/uri)
      -c: cookies
      -m: method (GET, POST)
