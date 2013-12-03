@@ -1,4 +1,4 @@
 yandex-tank-ammo-generator
 ==========================
 
-ammo file generator for yandex-tank
+Ammo file generator for yandex-tank
