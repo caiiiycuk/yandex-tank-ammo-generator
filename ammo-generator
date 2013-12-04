@@ -66,14 +66,14 @@ sub usage {
   print <<"__USAGE__";
 Ammo generator for yandex-tank v.2
   
-Usage: ./ammo-generator -u url -[cmr]
+Usage: ./ammo-generator -u url -[cmrh]
   -u: url (like http://host/uri)
   -c: cookies
   -m: method (GET, POST) by default will be GET
   -r: run yandex-tank againt created ammo file
   -h: help
 
-Example:
+Examples:
   
   1)
 
