@@ -1,7 +1,7 @@
 yandex-tank-ammo-generator
 ==========================
 
-Ammo file generator for yandex-tank
+Ammo file generator for [yandex-tank](https://github.com/yandex-load/yandex-tank)
 
 Usage
 =====
